@@ -25,6 +25,8 @@ public class Principal { //Classe que contém o método principal.
 		System.out.printf("A Milena a namorada do André ué");
 		in.close();
 		
+		System.out.printf("Pão");
+		
 	}
 
 }
